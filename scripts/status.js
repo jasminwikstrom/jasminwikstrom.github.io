@@ -16,7 +16,7 @@ function getWeather() {
     var unit = "metric";
 
     //URL to service
-    var url = "http://api.openweathermap.org/data/2.5/forecast";
+    var url = "https://api.openweathermap.org/data/2.5/forecast";
 
     //Key to access service
     var key = "c63811c90b64fe0da2ebea199123b130";
