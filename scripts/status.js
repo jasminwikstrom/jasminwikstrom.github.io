@@ -22,7 +22,7 @@ function getWeather() {
     var key = "c63811c90b64fe0da2ebea199123b130";
 
     // The chosen city we want to receive weather information about
-    var city = "London";
+    var city = "Nynashamn";
 
 
     $.ajax({
